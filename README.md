@@ -12,7 +12,7 @@
 * *Complement*  
   
 ## *Create methods for handling subsets and equality.*
-![](https://via.placeholder.com/162x159/)
+![](https://raw.githubusercontent.com/NikoDyring/SetTheoryAPI/master/fiveCases.png)
 ---
 ## *Installation Instructions*
 1. *Clone or Download the repo as a ZIP.*
