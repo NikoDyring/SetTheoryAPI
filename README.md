@@ -22,8 +22,3 @@
 5. *Now the API is hosted locally.*
 6. *Test the calls with either Postman, Insomnia or some other rest client.*
 ---
-## *Group Members*
-*Nikolai Christiansen*  
-*Christoffer Dunk*  
-*Jonas Pedersen*  
-*Nikolaj Jensen*  
