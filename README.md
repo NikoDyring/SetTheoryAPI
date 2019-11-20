@@ -22,3 +22,6 @@
 5. *Now the API is hosted locally.*
 6. *Test the calls with either Postman, Insomnia or some other rest client.*
 ---
+
+Created this REST Api for one of our Discrete Math assignments which was about set theory.
+Chose to create it with a .Net Web API as my preferred programming language is C#.
